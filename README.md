@@ -9,5 +9,5 @@ Sähköpostiosoitteen tulee olla sähköpostiosoitteen muotoinen
 
 ___________________________________________________________________________________________________________________
 
-Tehtävä on yksinkertainen, mutta tälläkertaa tiedot eivät tallennu. Pieniä ongelmia ilmeni postinumerossa 
+Tehtävä on yksinkertainen, mutta tälläkertaa tiedot eivät tallennu. Pieniä ongelmia ilmeni postinumerossa.
 Yritin postinumero.length<5 || postinumero.length>5 ... ja 4-6 mutta se ei vaan toiminut, joten päädyin kompromissiin, lisäsin HTML:ään maxlength="5" ja se toimi.
