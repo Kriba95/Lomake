@@ -12,7 +12,7 @@ function validateform(){
     var atposition=email.indexOf("@");  
     var dotposition=email.lastIndexOf(".");   
     console.log(kieli)
-
+ 
     if(loginid.length<6){  
         alert("Käyttäjätunnus pitää olla vähintään 6 merkkiä");  
         return false;  

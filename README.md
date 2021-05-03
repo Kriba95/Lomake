@@ -6,7 +6,7 @@ Käyttäjä ID pitää olla vähintään 6 merkkiä pitkä
 Postinumerossa pitää olla 5 numeroa
 Sähköpostiosoitteen tulee olla sähköpostiosoitteen muotoinen
 
-
+ 
 ___________________________________________________________________________________________________________________
 
 Tehtävä on yksinkertainen, mutta tälläkertaa tiedot eivät tallennu. Pieniä ongelmia ilmeni postinumerossa.
