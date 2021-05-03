@@ -24,9 +24,9 @@
   <div class="container wow pulse">
     <div class="teksti">
       <p class="kav-teksti">Lomake</p>
-      <hr style="">
+      <hr>
       <div class="js-boksi">
-        <form name="myform" method="post" action="http://www.javatpoint.com/javascriptpages/valid.jsp" onsubmit="return validateform()" >  
+        <form name="myform" method="post" onsubmit="return validateform()" >  
           Käyttäjätunnus: <input type="text" name="loginid">
           Salasana: <input type="password" name="salasana">
           Nimi: <input type="text" name="nimi">  
@@ -63,7 +63,7 @@
     </div>
   </div>
 
-</section> 
+</section Lomake> 
       
 
 
